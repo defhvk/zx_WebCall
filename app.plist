@@ -19,7 +19,7 @@
             <key>needs-shine</key>
             <true/>
             <key>url</key>
-            <string>http://app.zxqg.com:7878/APP/WebAppCall.png</string>
+            <string>http://app.zxqg.com:7878/APP/webcalllogo.png</string>
           </dict>
           <dict>
             <key>kind</key>
@@ -27,7 +27,7 @@
             <key>needs-shine</key>
             <true/>
             <key>url</key>
-            <string>http://app.zxqg.com:7878/APP/WebAppCall.png</string>
+            <string>http://app.zxqg.com:7878/APP/webcalllogo.png</string>
           </dict>
         </array>
         <key>metadata</key>
@@ -35,11 +35,11 @@
           <key>bundle-identifier</key>
           <string>com.kit.zxapp</string>
           <key>bundle-version</key>
-          <string>0.0.2</string>
+          <string>1.0</string>
           <key>kind</key>
           <string>software</string>
           <key>title</key>
-        <string>中旭股份</string>
+        <string>中旭小话统</string>
          </dict>
       </dict>
     </array>
